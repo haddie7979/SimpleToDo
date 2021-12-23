@@ -26,12 +26,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/zW7wmUq.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-The video says to use a minus one to place new items on the list at the end of the list but that leaves the last item at the end and adds everything right before it, so I had to troubleshoot that issue
+The video says to use a minus one to place new items on the list at the end of the list but that leaves the last item at the end and adds everything right before it, so I had to troubleshoot that issue.
 
 ## License
 
